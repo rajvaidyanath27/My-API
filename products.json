@@ -1,0 +1,80 @@
+[ 
+    {
+        "name": "Galaxy S24",
+        "price": 799,
+        "company": "Apple",
+        "features": ["120Hz AMOLED Display", "Triple Camera", "5G Connectivity"]
+      },
+      {
+        "name": "iPhone 15",
+        "price": 999,
+        "company": "Apple",
+        "features": ["A16 Bionic Chip", "Dynamic Island", "Ceramic Shield"]
+      },
+    {
+      "name": "iPhone 15",
+      "price": 999,
+      "company": "Apple"
+    },
+    {
+      "name": "Galaxy S24",
+      "price": 799,
+      "company": "Apple"
+    },
+    {
+      "name": "Pixel 8",
+      "price": 699,
+      "company": "dell"
+    },
+    {
+      "name": "OnePlus 12",
+      "price": 649,
+      "company": "Nothing"
+    },
+    {
+      "name": "Xperia 1 V",
+      "price": 1199,
+      "company": "samsung"
+    },
+    {
+      "name": "Redmi Note 13 Pro",
+      "price": 299,
+      "company": "samsung"
+    },
+    {
+      "name": "Moto Edge 40",
+      "price": 599,
+      "company": "Motorola"
+    },
+    {
+      "name": "Vivo X90",
+      "price": 729,
+      "company": "Vivo"
+    },
+    {
+      "name": "Oppo Find X6",
+      "price": 899,
+      "company": "Vivo"
+    },
+    {
+      "name": "Realme GT 5",
+      "price": 549,
+      "company": "Realme"
+    },
+    {
+      "name": "Huawei P60 Pro",
+      "price": 999,
+      "company": "Nothing"
+    },
+    {
+      "name": "Asus ROG Phone 7",
+      "price": 999,
+      "company": "Nothing"
+    },
+    {
+      "name": "Honor Magic 5 Pro",
+      "price": 1199,
+      "company": "Nothing"
+    }
+  ]
+  
